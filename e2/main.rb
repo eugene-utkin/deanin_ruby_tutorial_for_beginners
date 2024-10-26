@@ -5,6 +5,8 @@
 # puts "Hello World!"
 # puts 'Hello World!'
 
+name = "Dave's name"
+
 first_name = "Dave"
 # puts first_name
 
