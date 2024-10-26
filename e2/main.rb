@@ -13,4 +13,4 @@ full_name = first_name + " " + last_name
 
 # puts first_name
 
-puts "Hello " + first_name + " " + last_name
+puts "Hello " + full_name
