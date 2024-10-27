@@ -13,4 +13,6 @@ y = 2
 
 puts x + y
 
+first_name = "Tim"
+
 puts "x + y"
