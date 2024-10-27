@@ -15,4 +15,4 @@ puts x + y
 
 first_name = "Tim"
 
-puts "x + y = "
+puts "x + y = " + x.to_s
