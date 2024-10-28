@@ -18,3 +18,4 @@ first_name = "Tim"
 
 # puts "x + y = " + x.to_s + y.to_s
 puts "x + y = " + z.to_s
+puts "x + y = " + (x + y).to_s
