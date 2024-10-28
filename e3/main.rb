@@ -28,3 +28,4 @@ puts "x + y = " + (x + y).to_s
 
 
 x = -2.4
+puts "x + y = " + (x + y).to_s
