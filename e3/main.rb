@@ -19,3 +19,6 @@ puts x + y
 # puts "x + y = " + x.to_s + y.to_s
 puts "x + y = " + z.to_s
 puts "x + y = " + (x + y).to_s
+
+
+x = 2.5
