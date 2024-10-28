@@ -21,4 +21,4 @@ puts "x + y = " + z.to_s
 puts "x + y = " + (x + y).to_s
 
 
-x = 2.5
+x = 2.4
