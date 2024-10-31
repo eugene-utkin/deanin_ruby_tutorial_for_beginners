@@ -6,6 +6,7 @@ person_is_unable_to_drive = false
 
 if person_is_able_to_drive then puts "You can drive" end
 
+# JavaScript
 if (person_is_able_to_drive) {
   console.log("You can drive!");
 }
