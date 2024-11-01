@@ -34,7 +34,7 @@ end
 
 person_age = 4
 
-if person_age >= 18
+if person_age >= 18 # false
   puts "You can drive!"
 else
   puts "You can't drive!"
