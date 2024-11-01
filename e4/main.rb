@@ -31,3 +31,5 @@ if person_age >= 18
 else
   puts "You can't drive!"
 end
+
+person_age = 4
