@@ -18,4 +18,6 @@ if person_is_able_to_drive then puts "You can drive" end
   }
 
   # Python
+  if person_is_able_to_drive
+    print("You can drive!")
 =end
