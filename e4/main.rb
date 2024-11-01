@@ -4,8 +4,6 @@
 person_is_able_to_drive = true
 person_is_unable_to_drive = false
 
-if person_is_able_to_drive then puts "You can drive" end
-
 =begin
   # JavaScript
   if (person_is_able_to_drive) {
@@ -21,3 +19,5 @@ if person_is_able_to_drive then puts "You can drive" end
   if person_is_able_to_drive
     print("You can drive!")
 =end
+
+if person_is_able_to_drive then puts "You can drive" end
