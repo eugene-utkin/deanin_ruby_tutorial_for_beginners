@@ -29,4 +29,5 @@ person_age = 24
 if person_age >= 18
   puts "You can drive!"
 else
+  puts "You can't drive!"
 end
