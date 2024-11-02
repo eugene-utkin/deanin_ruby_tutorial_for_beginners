@@ -26,6 +26,8 @@ if person_is_unable_to_drive then puts "You can't drive" end
 
 person_age = 24
 
+x = 1
+
 if person_age >= 18 # true
   puts "You can drive!"
 else
