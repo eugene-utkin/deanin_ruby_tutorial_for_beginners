@@ -14,3 +14,4 @@ users_age = gets.chomp
 puts "Hello, you are " + users_age + " years old!"
 
 puts "Hello, you are now 1 year younger."
+puts "You are now "
