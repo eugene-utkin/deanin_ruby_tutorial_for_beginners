@@ -9,3 +9,4 @@ puts "Hello, " + users_name + "!"
 
 
 puts "Hello, how old are you?"
+users_age = gets
