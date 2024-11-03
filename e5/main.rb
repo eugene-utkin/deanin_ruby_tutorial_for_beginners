@@ -13,5 +13,6 @@ users_age = gets.chomp
 
 puts "Hello, you are " + users_age + " years old!"
 
+users_age = users_age.to_i
 puts "Hello, you are now 1 year younger."
 puts "You are now " + (users_age - 1) + " years old!"
