@@ -8,3 +8,6 @@ my_age = 20
 # If I can't drive, print "I can't drive!"
 
 # If I am 18 or older, I can drive.
+if my_age >= 18
+
+end
