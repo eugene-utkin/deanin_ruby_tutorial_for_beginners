@@ -9,5 +9,5 @@ my_age = 20
 
 # If I am 18 or older, I can drive.
 if my_age >= 18
-
+  puts "I can drive!"
 end
