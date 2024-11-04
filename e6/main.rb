@@ -16,3 +16,8 @@ end
 
 
 my_age = 4
+if my_age >= 18
+  puts "I can drive!"
+else
+  puts "I can't drive!"
+end
