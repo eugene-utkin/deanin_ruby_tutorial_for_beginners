@@ -13,3 +13,6 @@ if my_age >= 18
 else
   puts "I can't drive!"
 end
+
+
+my_age = 4
