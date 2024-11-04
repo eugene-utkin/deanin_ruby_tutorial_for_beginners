@@ -6,3 +6,5 @@ my_age = 20
 # Now, let's check if I can drive.
 # If I can drive, print "I can drive!"
 # If I can't drive, print "I can't drive!"
+
+# If I am 18 or older, I can drive.
