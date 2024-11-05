@@ -19,7 +19,7 @@ end
 # If I am 18 or older, print "I can't go to school!"
 
 if my_age < 18
-
+# OR we could do: if my_age <= 17
 end
 
 
