@@ -32,3 +32,10 @@ if my_age >= 18
 else
   puts "I can't drive!"
 end
+
+if my_age < 18
+# OR we could do: if my_age <= 17
+  puts "I can go to school!"
+else
+  puts "I can't go to school!"
+end
