@@ -18,6 +18,11 @@ end
 # If I am younger than 18, print "I can go to school!"
 # If I am 18 or older, print "I can't go to school!"
 
+if my_age < 18
+
+end
+
+
 
 my_age = 4
 if my_age >= 18
