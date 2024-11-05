@@ -25,6 +25,8 @@ else
   puts "I can't go to school!"
 end
 
+# I need to be exactly 18 to vote.
+
 
 my_age = 4
 if my_age >= 18
