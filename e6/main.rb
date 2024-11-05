@@ -26,6 +26,9 @@ else
 end
 
 # I need to be exactly 18 to vote.
+if my_age == 18
+
+end
 
 
 my_age = 4
