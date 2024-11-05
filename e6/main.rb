@@ -14,6 +14,8 @@ else
   puts "I can't drive!"
 end
 
+# I need to be younger than 18 to go to school.
+
 
 my_age = 4
 if my_age >= 18
