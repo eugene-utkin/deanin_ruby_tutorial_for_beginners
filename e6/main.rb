@@ -16,6 +16,7 @@ end
 
 # I need to be younger than 18 to go to school.
 # If I am younger than 18, print "I can go to school!"
+# If I am 18 or older, print "I can't go to school!"
 
 
 my_age = 4
