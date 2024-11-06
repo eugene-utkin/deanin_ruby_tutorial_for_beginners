@@ -4,5 +4,5 @@
 # This is a while loop
 
 while true
-
+  break
 end
