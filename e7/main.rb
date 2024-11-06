@@ -4,7 +4,7 @@
 # This is a while loop
 while true
   puts "Hello World"
-  # break
+  break
 end
 
 counter = 0
