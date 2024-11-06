@@ -3,7 +3,7 @@
 
 # This is a while loop
 counter = 0
-while true
+while counter < 10
   puts "Hello World"
   break
 end
