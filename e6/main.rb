@@ -45,3 +45,9 @@ if my_age < 18
 else
   puts "I can't go to school!"
 end
+
+if my_age == 18
+  puts "I can vote!"
+else
+  puts "I can't vote!"
+end
