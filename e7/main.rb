@@ -4,5 +4,6 @@
 # This is a while loop
 
 while true
+  puts "Hello World"
   break
 end
