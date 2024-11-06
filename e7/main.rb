@@ -2,7 +2,7 @@
 # How many times to run the thing.
 
 # This is a while loop
-while counter < 10
+while true
   puts "Hello World"
   # break
 end
