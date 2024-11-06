@@ -2,6 +2,11 @@
 # How many times to run the thing.
 
 # This is a while loop
+while counter < 10
+  puts "Hello World"
+  # break
+end
+
 counter = 0
 while counter < 10
   puts "Hello World"
