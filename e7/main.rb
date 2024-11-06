@@ -2,3 +2,7 @@
 # How many times to run the thing.
 
 # This is a while loop
+
+while true
+
+end
