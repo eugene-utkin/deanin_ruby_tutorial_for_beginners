@@ -15,4 +15,5 @@ while counter < 10
 end
 
 
+puts "What is your favorite color?"
 user_input = gets.chomp
