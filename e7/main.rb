@@ -19,6 +19,7 @@ puts "What is your favorite color?"
 puts "Press q to quit!"
 user_input = gets.chomp
 
+# != means does not equal.
 while user_input != "q"
 
 end
