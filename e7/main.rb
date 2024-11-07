@@ -24,4 +24,5 @@ user_input = gets.chomp
 while user_input != "q"
   puts "You typed: #{user_input}"
   puts "What is your favorite color?"
+  puts "Press q to quit!"
 end
