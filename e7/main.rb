@@ -15,4 +15,4 @@ while counter < 10
 end
 
 
-user_input = gets
+user_input = gets.chomp
