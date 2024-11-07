@@ -21,7 +21,7 @@ user_input = gets.chomp
 
 # != means does not equal.
 # This is the opposite of == which means equals.
-while user_input != "q"
+while user_input.downcase != "q"
   puts "You typed: #{user_input}"
   puts "What is your favorite color?"
   puts "Press q to quit!"
