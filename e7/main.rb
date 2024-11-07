@@ -23,4 +23,5 @@ user_input = gets.chomp
 # This is the opposite of == which means equals.
 while user_input != "q"
   puts "You typed: #{user_input}"
+  puts "What is your favorite color?"
 end
