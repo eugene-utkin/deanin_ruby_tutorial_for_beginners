@@ -13,3 +13,6 @@ while counter < 10
   puts "Hello World"
   # break
 end
+
+
+user_input = gets
