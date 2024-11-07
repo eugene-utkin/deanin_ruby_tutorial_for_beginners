@@ -16,4 +16,5 @@ end
 
 
 puts "What is your favorite color?"
+puts "Press q to quit!"
 user_input = gets.chomp
