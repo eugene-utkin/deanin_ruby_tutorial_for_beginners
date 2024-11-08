@@ -8,3 +8,6 @@ puts "Happy Birthday"
 
 
 puts "=================================="
+
+
+counter = 0
