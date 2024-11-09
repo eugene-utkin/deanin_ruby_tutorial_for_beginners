@@ -47,3 +47,6 @@ puts "=================================="
 3.times do |counter|
   puts "The counter is #{counter}"
 end
+
+
+puts "=================================="
