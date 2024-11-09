@@ -44,6 +44,6 @@ end
 puts "=================================="
 
 
-3.times do
+3.times do |counter|
 
 end
