@@ -52,14 +52,12 @@ end
 puts "=================================="
 
 
+(8...11).each do |counter|
+  puts "The counter is #{counter}"
+end
 (8..11).each do |counter|
   puts "The counter is #{counter}"
 end
 
 
 puts "=================================="
-
-
-(8...11).each do |counter|
-  puts "The counter is #{counter}"
-end
