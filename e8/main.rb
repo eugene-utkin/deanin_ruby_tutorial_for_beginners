@@ -55,3 +55,6 @@ puts "=================================="
 (7..11).each do |counter|
   puts "The counter is #{counter}"
 end
+
+
+puts "=================================="
