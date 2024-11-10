@@ -62,6 +62,7 @@ end
 puts "=================================="
 
 
+# This range goes from 8 to 11.
 (8..11).each do |counter|
   puts "The counter is #{counter}"
 end
