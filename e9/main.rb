@@ -9,3 +9,4 @@ puts first_color
 puts second_color
 puts third_color
 # ...
+puts nth_color
