@@ -16,3 +16,4 @@ puts "=========================="
 
 
 my_colors_list = ["red", "blue", "green", "black"]
+# Our colors are now:
