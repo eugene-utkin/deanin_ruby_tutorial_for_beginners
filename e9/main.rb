@@ -5,3 +5,4 @@ third_color = "green"
 nth_color = "black"
 
 puts "Out colors:"
+puts first_color
