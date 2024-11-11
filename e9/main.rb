@@ -13,3 +13,6 @@ puts nth_color
 
 
 puts "=========================="
+
+
+my_colors_list = ["red", "blue", "green", "black"]
