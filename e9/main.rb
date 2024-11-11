@@ -7,3 +7,4 @@ nth_color = "black"
 puts "Out colors:"
 puts first_color
 puts second_color
+puts third_color
