@@ -21,6 +21,6 @@ puts my_colors_list
 puts my_colors_list[0]
 puts my_colors_list[1]
 
-3.times do |counter|
-  puts "The counter is #{counter}"
-end
+# 3.times do |counter|
+#   puts "The counter is #{counter}"
+# end
