@@ -31,3 +31,4 @@ puts "=========================="
 
 puts my_colors_list[0]
 puts my_colors_list[1]
+puts my_colors_list[2]
