@@ -20,6 +20,7 @@ my_colors_list = ["red", "blue", "green", "black"]
 puts my_colors_list
 puts my_colors_list[0]
 puts my_colors_list[1]
+puts my_colors_list[4]
 
 # 3.times do |counter|
 #   puts "The counter is #{counter}"
