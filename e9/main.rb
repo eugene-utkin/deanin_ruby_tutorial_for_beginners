@@ -39,6 +39,6 @@ puts my_colors_list[3]
 puts "=========================="
 
 
-4.times do
+4.times do |counter|
 
 end
