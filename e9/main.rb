@@ -27,3 +27,6 @@ puts my_colors_list[1]
 
 
 puts "=========================="
+
+
+puts my_colors_list[0]
