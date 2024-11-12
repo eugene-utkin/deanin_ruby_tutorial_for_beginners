@@ -19,3 +19,4 @@ my_colors_list = ["red", "blue", "green", "black"]
 # Our colors are now:
 puts my_colors_list
 puts my_colors_list[0]
+puts my_colors_list[1]
