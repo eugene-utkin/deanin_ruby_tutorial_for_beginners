@@ -40,5 +40,5 @@ puts "=========================="
 
 
 4.times do |counter|
-  puts "The color is #{my_colors_list[0]}"
+  puts "The color is #{my_colors_list[counter]}"
 end
