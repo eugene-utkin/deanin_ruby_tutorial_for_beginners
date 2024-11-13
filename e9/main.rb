@@ -49,3 +49,4 @@ puts "=========================="
 
 
 # Instead of accessing the array by the number,
+# we can access it by the value.
