@@ -40,5 +40,6 @@ puts "=========================="
 
 
 4.times do |counter|
+  puts "The counter is #{counter}"
   puts "The color is #{my_colors_list[counter]}"
 end
