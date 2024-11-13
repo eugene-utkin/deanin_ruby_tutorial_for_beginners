@@ -54,3 +54,6 @@ puts "=========================="
 my_colors_list.each do |color|
   puts "The color is #{color}"
 end
+
+
+puts "=========================="
