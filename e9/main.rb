@@ -65,3 +65,5 @@ my_colors_list.each_with_index do |color, index|
   puts "The index is #{index}"
   puts "The color is #{color}"
 end
+
+puts "Adding a color to the list"
