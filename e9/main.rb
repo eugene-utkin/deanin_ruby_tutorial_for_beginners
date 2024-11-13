@@ -60,3 +60,6 @@ puts "=========================="
 
 
 # We want each color and the index.
+my_colors_list.each_with_index do |color, index|
+
+end
