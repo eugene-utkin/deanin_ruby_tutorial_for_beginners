@@ -59,6 +59,7 @@ end
 puts "=========================="
 
 
+my_colors_list = ["red", "blue", "green", "black"]
 # We want each color and the index.
 my_colors_list.each_with_index do |color, index|
   puts "The index is #{index}"
