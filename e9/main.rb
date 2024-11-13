@@ -46,3 +46,6 @@ end
 
 
 puts "=========================="
+
+
+# Instead of accessing the array by the number,
