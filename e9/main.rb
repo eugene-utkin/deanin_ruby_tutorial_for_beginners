@@ -52,5 +52,5 @@ puts "=========================="
 # we can access it by the value.
 
 my_colors_list.each do |color|
-
+  puts "The color is #{color}"
 end
