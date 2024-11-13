@@ -57,3 +57,6 @@ end
 
 
 puts "=========================="
+
+
+# We want each color and the index.
