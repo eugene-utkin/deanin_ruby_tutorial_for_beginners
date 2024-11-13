@@ -50,3 +50,7 @@ puts "=========================="
 
 # Instead of accessing the array by the number,
 # we can access it by the value.
+
+my_colors_list.each do |color|
+
+end
