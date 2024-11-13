@@ -43,3 +43,6 @@ puts "=========================="
   puts "The counter is #{counter}"
   puts "The color is #{my_colors_list[counter]}"
 end
+
+
+puts "=========================="
