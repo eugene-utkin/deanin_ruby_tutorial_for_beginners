@@ -68,3 +68,4 @@ end
 
 puts "Adding a color to the list"
 my_colors_list[4] = "purple"
+puts my_colors_list
