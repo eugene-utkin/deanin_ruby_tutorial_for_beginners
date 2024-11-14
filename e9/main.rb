@@ -81,3 +81,4 @@ end
 
 
 puts "Removing a color from the list"
+my_colors_list.delete_at(2)
