@@ -85,4 +85,5 @@ my_colors_list.delete_at(2)
 
 my_colors_list.each_with_index do |color, index|
   puts "The index is #{index}"
+  puts "The color is #{color}"
 end
