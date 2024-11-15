@@ -1,1 +1,1 @@
-puts "Hello, I am temperature converting AI."
+puts "Hello, I am temperature converting AI™."
