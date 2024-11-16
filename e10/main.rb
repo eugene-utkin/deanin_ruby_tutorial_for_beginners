@@ -11,3 +11,5 @@ end
 
 puts "What is the temperature?"
 temperature = gets.chomp.to_f
+
+# If the unit is Fahrenheit, convert to Celsius.
