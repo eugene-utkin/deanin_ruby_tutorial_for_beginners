@@ -19,4 +19,5 @@ if unit_of_measure == "f"
 else
   # Otherwise, convert to Fahrenheit.
   temperature = temperature * 9 / 5 + 32
+  puts "The temperature in Fahrenheit is #{temperature}."
 end
