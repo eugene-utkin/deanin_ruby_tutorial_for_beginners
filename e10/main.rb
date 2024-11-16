@@ -17,4 +17,5 @@ if unit_of_measure == "f"
   temperature = (temperature - 32) * 5 / 9
   puts "The temperature in Celsius is #{temperature}."
 else
+  # Otherwise, convert to Fahrenheit.
 end
