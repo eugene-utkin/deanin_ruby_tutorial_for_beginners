@@ -6,6 +6,7 @@ unit_of_measure = gets.chomp.downcase
 # If the unit is not supported, yell at the user and exit.
 if unit_of_measure != "f" && unit_of_measure != "c"
   puts "You did not enter a supported unit of measurement."
+  exit
 end
 
 puts "What is the temperature?"
