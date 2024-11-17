@@ -20,5 +20,6 @@ if unit_of_measure == "f"
 else
   # Otherwise, convert to Fahrenheit.
   converted_temperature = (temperature * 9.0 / 5.0) + 32
+  converted_temperature = converted_temperature.round(2)
   puts "The temperature in Fahrenheit is #{converted_temperature}."
 end
