@@ -18,6 +18,6 @@ if unit_of_measure == "f"
   puts "The temperature in Celsius is #{converted_temperature}."
 else
   # Otherwise, convert to Fahrenheit.
-  temperature = (temperature * 9.0 / 5.0) + 32
+  converted_temperature = (temperature * 9.0 / 5.0) + 32
   puts "The temperature in Fahrenheit is #{temperature}."
 end
