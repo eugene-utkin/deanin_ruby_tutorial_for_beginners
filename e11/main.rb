@@ -1,2 +1,3 @@
 # Logical operators -
 #  && - and
+#  || - or
