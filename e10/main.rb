@@ -15,7 +15,7 @@ temperature = gets.chomp.to_f
 # If the unit is Fahrenheit, convert to Celsius.
 if unit_of_measure == "f"
   converted_temperature = (temperature - 32) * 5 / 9
-  puts "The temperature in Celsius is #{temperature}."
+  puts "The temperature in Celsius is #{converted_temperature}."
 else
   # Otherwise, convert to Fahrenheit.
   temperature = (temperature * 9.0 / 5.0) + 32
