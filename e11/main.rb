@@ -11,3 +11,7 @@ user_age = 20
 if user_age >= 16 && user_age < 18
   print("You can drive but only with an adult")
 end
+
+if user_age >= 16
+
+end
