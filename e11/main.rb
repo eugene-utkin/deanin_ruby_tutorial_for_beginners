@@ -19,3 +19,4 @@ if user_age >= 16
 end
 
 # && - and
+# Both conditions must be true for the whole expression to be true
