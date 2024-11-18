@@ -22,4 +22,5 @@ end
 # Both conditions must be true for the whole expression to be true
 # true && true    => true
 # true && false   => false
+# false && true   => false
 # false && false  => false
