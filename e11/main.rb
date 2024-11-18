@@ -26,3 +26,4 @@ end
 # false && false  => false
 
 # || - or
+# true || true    => true
