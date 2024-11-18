@@ -24,3 +24,5 @@ end
 # true && false   => false
 # false && true   => false
 # false && false  => false
+
+# || - or
