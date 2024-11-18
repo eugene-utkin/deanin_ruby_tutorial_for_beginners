@@ -8,6 +8,6 @@
 
 user_age = 20
 
-if user_age >= 16
+if user_age >= 16 && user_age < 18
 
 end
