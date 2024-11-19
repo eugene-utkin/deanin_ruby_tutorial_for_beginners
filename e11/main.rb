@@ -32,3 +32,4 @@ end
 # false || false  => false
 
 # ! - not
+# !true => false
