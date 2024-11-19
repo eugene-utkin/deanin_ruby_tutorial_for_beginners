@@ -39,3 +39,7 @@ end
 # 1. Check if a number is between 1 and 10
 puts "Enter a number"
 number = gets.chomp.to_i
+
+if number >= 1
+
+end
