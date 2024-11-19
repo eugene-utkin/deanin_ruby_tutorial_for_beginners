@@ -38,3 +38,4 @@ end
 # Examples
 # 1. Check if a number is between 1 and 10
 puts "Enter a number"
+number = gets
