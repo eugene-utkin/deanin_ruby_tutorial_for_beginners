@@ -30,3 +30,5 @@ end
 # true || false   => true
 # false || true   => true
 # false || false  => false
+
+# ! - not
