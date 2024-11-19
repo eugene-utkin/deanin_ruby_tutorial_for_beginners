@@ -34,3 +34,5 @@ end
 # ! - not
 # !true => false
 # !false => true
+
+# Examples
