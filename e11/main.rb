@@ -40,6 +40,6 @@ end
 puts "Enter a number"
 number = gets.chomp.to_i
 
-if number >= 1
+if number >= 1 && number <= 10
 
 end
