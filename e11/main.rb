@@ -46,5 +46,9 @@ else
   puts "The number is not between 1 and 10"
 end
 
+
+puts "======================================"
+
+
 # 2. Check if number is not between 1 and 10
 puts "Enter a number"
