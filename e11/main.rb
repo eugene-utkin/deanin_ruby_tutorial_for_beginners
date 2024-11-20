@@ -54,5 +54,5 @@ puts "======================================"
 puts "Enter a number"
 number = gets.chomp.to_i
 if number < 1 || number > 10
-
+  puts "The number is not between 1 and 10"
 end
