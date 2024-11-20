@@ -45,3 +45,6 @@ if number >= 1 && number <= 10
 else
   puts "The number is not between 1 and 10"
 end
+
+
+# 2. Check if number is not between 1 and 10
