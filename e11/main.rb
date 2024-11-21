@@ -64,3 +64,4 @@ puts "======================================"
 
 
 # 3. Check if a number is not between 1 and 10
+puts "Enter a number"
