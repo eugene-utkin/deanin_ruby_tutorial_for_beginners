@@ -58,3 +58,6 @@ if number < 1 || number > 10
 else
   puts "The number is between 1 and 10"
 end
+
+
+# 3. Check if a number is not between 1 and 10
