@@ -66,3 +66,4 @@ puts "======================================"
 # 3. Check if a number is not between 1 and 10
 puts "Enter a number"
 number = gets.chomp.to_i
+between_1_and_10 = number >= 1 && number <= 10
