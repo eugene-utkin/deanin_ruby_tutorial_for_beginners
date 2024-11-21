@@ -67,3 +67,4 @@ puts "======================================"
 puts "Enter a number"
 number = gets.chomp.to_i
 between_1_and_10 = number >= 1 && number <= 10
+# You could also do
