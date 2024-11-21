@@ -71,4 +71,5 @@ between_1_and_10 = number >= 1 && number <= 10
 # between_1_and_10 = number < 1 || number > 10
 if !between_1_and_10
   puts "The number is not between 1 and 10"
+else
 end
