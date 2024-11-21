@@ -74,3 +74,7 @@ if !between_1_and_10
 else
   puts "The number is between 1 and 10"
 end
+
+if between_1_and_10
+
+end
