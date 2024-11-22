@@ -78,4 +78,5 @@ end
 if between_1_and_10
   puts "The number is between 1 and 10"
 else
+  puts "The number is not between 1 and 10"
 end
