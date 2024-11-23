@@ -42,5 +42,5 @@ puts "====================================="
 
 
 def square(number_to_be_squared)
-
+  puts number_to_be_squared * number_to_be_squared
 end
