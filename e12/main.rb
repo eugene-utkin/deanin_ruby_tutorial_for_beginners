@@ -39,3 +39,8 @@ another_number = 4
 
 
 puts "====================================="
+
+
+def square
+
+end
