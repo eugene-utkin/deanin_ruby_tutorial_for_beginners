@@ -41,6 +41,6 @@ another_number = 4
 puts "====================================="
 
 
-def square
+def square(number_to_be_squared)
 
 end
