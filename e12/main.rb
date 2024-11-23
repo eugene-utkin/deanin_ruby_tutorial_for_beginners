@@ -34,3 +34,5 @@ puts "====================================="
 number = 5
 
 puts number * number
+
+another_number = 4
