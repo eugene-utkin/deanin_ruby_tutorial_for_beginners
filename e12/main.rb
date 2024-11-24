@@ -58,3 +58,4 @@ def multiply(first_number, second_number)
 end
 
 multiply(5, 5)
+multiply(2, 3)
