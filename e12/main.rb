@@ -62,3 +62,5 @@ multiply(2, 3)
 
 result = 2 + 3
 multiply(result, 5)
+
+result = multiply(3, 5)
