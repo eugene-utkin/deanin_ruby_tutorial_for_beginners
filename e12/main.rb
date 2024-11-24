@@ -53,6 +53,6 @@ square(3)
 puts "====================================="
 
 
-def multiply
+def multiply(first_number)
 
 end
