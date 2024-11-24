@@ -46,3 +46,4 @@ def square(number_to_be_squared)
 end
 
 square(5)
+square(3)
