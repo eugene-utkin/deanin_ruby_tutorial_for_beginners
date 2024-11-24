@@ -61,4 +61,4 @@ multiply(5, 5)
 multiply(2, 3)
 
 result = 2 + 3
-multiply(2 + 3, 5)
+multiply(result, 5)
