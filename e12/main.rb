@@ -56,3 +56,5 @@ puts "====================================="
 def multiply(first_number, second_number)
   puts first_number * second_number
 end
+
+multiply(5, 5)
