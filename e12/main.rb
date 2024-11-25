@@ -67,6 +67,9 @@ result = multiply(3, 5)
 puts result
 
 
+puts "====================================="
+
+
 def multiply
 
 end
