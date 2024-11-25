@@ -65,3 +65,8 @@ multiply(result, 5)
 
 result = multiply(3, 5)
 puts result
+
+
+def multiply
+
+end
