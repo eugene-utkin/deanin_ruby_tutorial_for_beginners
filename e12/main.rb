@@ -70,6 +70,6 @@ puts result
 puts "====================================="
 
 
-def multiply(first_number)
+def multiply(first_number, second_number)
 
 end
