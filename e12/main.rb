@@ -73,3 +73,5 @@ puts "====================================="
 def multiply(first_number, second_number)
   first_number * second_number
 end
+
+result = multiply(3, 5)
