@@ -1,2 +1,2 @@
 puts "What is your weight?"
-weight = gets
+weight = gets.chomp
