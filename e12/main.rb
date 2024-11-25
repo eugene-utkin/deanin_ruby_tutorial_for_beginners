@@ -75,4 +75,4 @@ def multiply(first_number, second_number)
 end
 
 result = multiply(3, 5)
-puts result
+puts "Your multiplication result was: #{result}"
