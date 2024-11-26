@@ -9,4 +9,5 @@ if unit == "l"
   new_weight = weight / 2.205
   puts "Your weight in kg is #{new_weight}"
 elsif unit == "k"
+  new_weight = weight * 2.205
 end
