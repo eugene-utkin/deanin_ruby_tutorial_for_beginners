@@ -6,5 +6,5 @@ puts "Is that in (L)bs or (K)g?"
 unit = gets.chomp.downcase
 
 if unit == "l"
-
+  new_weight = weight / 2.205
 end
