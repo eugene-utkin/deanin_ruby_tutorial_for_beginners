@@ -10,4 +10,5 @@ if unit == "l"
   puts "Your weight in kg is #{new_weight}"
 elsif unit == "k"
   new_weight = weight * 2.205
+  puts "Your weight in lbs is #{new_weight}"
 end
