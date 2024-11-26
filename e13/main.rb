@@ -7,4 +7,5 @@ unit = gets.chomp.downcase
 
 if unit == "l"
   new_weight = weight / 2.205
+  puts "Your weight in kg is #{new_weight}"
 end
