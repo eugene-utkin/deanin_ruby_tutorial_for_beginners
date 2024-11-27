@@ -17,3 +17,5 @@ def convert_weight(weight, unit)
     puts "I don't support that unit of measurement"
   end
 end
+
+convert_weight(weight, unit)
