@@ -11,4 +11,5 @@ if unit == "l"
 elsif unit == "k"
   new_weight = weight * 2.205
   puts "Your weight is #{new_weight} lbs"
+else
 end
