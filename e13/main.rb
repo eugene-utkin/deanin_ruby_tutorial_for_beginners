@@ -6,6 +6,9 @@ puts "Is that in (L)bs or (K)g?"
 unit = gets.chomp.downcase
 
 # Let's create a function to convert the weight
+def convert_weight
+
+end
 
 if unit == "l"
   new_weight = weight / 2.205
