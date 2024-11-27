@@ -24,6 +24,6 @@ convert_weight(weight, unit)
 puts "============================================="
 
 
-def lbs_to_kg
+def lbs_to_kg(weight)
 
 end
