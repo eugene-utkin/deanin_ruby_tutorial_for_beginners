@@ -12,4 +12,5 @@ elsif unit == "k"
   new_weight = weight * 2.205
   puts "Your weight is #{new_weight} lbs"
 else
+  puts "I don't support that unit of measurement"
 end
