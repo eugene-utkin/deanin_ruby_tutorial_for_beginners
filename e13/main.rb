@@ -25,5 +25,5 @@ puts "============================================="
 
 
 def lbs_to_kg(weight)
-  weight / 2.205
+  return weight / 2.205
 end
