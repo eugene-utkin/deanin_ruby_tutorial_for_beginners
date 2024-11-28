@@ -31,7 +31,7 @@ end
 if unit == "l"
   puts "Your weight is #{lbs_to_kg(weight)} kg"
 elsif unit == "k"
-  puts "Your weight is #{new_weight} lbs"
+  puts "Your weight is #{kg_to_lbs(weight)} lbs"
 else
   puts "I don't support that unit of measurement"
 end
