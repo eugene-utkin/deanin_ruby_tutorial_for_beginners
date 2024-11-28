@@ -28,6 +28,10 @@ def lbs_to_kg(weight)
   return weight / 2.205
 end
 
+def kg_to_lbs
+
+end
+
 if unit == "l"
   puts "Your weight is #{lbs_to_kg(weight)} kg"
 elsif unit == "k"
