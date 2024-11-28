@@ -29,7 +29,6 @@ def lbs_to_kg(weight)
 end
 
 if unit == "l"
-  # new_weight = weight / 2.205
   puts "Your weight is #{lbs_to_kg(weight)} kg"
 elsif unit == "k"
   new_weight = weight * 2.205
