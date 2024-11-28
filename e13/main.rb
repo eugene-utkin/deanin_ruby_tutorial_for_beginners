@@ -30,6 +30,7 @@ end
 
 if unit == "l"
   # new_weight = weight / 2.205
+  new_weight = lbs_to_kg(weight)
   puts "Your weight is #{new_weight} kg"
 elsif unit == "k"
   new_weight = weight * 2.205
