@@ -29,7 +29,7 @@ def lbs_to_kg(weight)
 end
 
 def kg_to_lbs(weight)
-  weight * 2.205
+  return weight * 2.205
 end
 
 if unit == "l"
