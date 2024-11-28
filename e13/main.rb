@@ -28,7 +28,7 @@ def lbs_to_kg(weight)
   return weight / 2.205
 end
 
-def kg_to_lbs
+def kg_to_lbs(weight)
 
 end
 
