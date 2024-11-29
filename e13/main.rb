@@ -38,7 +38,7 @@ def print_lbs_to_kg(weight)
   puts "Your weight is #{lbs_to_kg(weight)} kg"
 end
 
-def print_kg_to_lbs
+def print_kg_to_lbs(weight)
 
 end
 
