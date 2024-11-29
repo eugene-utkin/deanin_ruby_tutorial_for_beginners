@@ -31,6 +31,7 @@ end
 
 def kg_to_lbs(weight)
   new_weight = weight * 2.205
+  new_weight.round(2)
 end
 
 if unit == "l"
