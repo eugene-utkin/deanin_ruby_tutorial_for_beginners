@@ -39,7 +39,7 @@ def print_lbs_to_kg(weight)
 end
 
 if unit == "l"
-  puts "Your weight is #{lbs_to_kg(weight)} kg"
+  print_lbs_to_kg(weight)
 elsif unit == "k"
   puts "Your weight is #{kg_to_lbs(weight)} lbs"
 else
