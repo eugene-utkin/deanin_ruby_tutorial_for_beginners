@@ -34,6 +34,10 @@ def kg_to_lbs(weight)
   return new_weight.round(2)
 end
 
+def print_lbs_to_kg
+
+end
+
 if unit == "l"
   puts "Your weight is #{lbs_to_kg(weight)} kg"
 elsif unit == "k"
