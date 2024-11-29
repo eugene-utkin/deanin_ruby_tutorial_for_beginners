@@ -25,7 +25,6 @@ puts "============================================="
 
 
 def lbs_to_kg(weight)
-  # We also want to round to 2 decimal places
   new_weight = weight / 2.205
   new_weight.round(2)
 end
