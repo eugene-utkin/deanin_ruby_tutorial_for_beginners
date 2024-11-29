@@ -34,7 +34,7 @@ def kg_to_lbs(weight)
   new_weight.round(2)
 end
 
-def print_lbs_to_kg
+def print_lbs_to_kg(weight)
 
 end
 
