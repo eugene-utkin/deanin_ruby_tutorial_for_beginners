@@ -43,7 +43,7 @@ end
 # Our logical flow
 get_user_input
 
-convert_weight(weight, unit)
+weight, unit = convert_weight(weight, unit)
 
 
 puts "============================================="
