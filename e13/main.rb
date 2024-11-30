@@ -41,6 +41,8 @@ def get_user_input()
 end
 
 # Our logical flow
+get_user_input
+
 convert_weight(weight, unit)
 
 
