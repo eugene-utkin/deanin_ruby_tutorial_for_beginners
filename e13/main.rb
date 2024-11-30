@@ -45,7 +45,7 @@ end
 if unit == "l"
   print_lbs_to_kg(weight)
 elsif unit == "k"
-  
+  print_kg_to_lbs(weight)
 else
   puts "I don't support that unit of measurement"
 end
