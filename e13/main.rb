@@ -1,10 +1,3 @@
-puts "What is your weight?"
-# We use to_f because weight may contain a decimal number
-weight = gets.chomp.to_f
-
-puts "Is that in (L)bs or (K)g?"
-unit = gets.chomp.downcase
-
 # Let's create a function to convert the weight
 def convert_weight(weight, unit)
   if unit == "l"
@@ -35,6 +28,14 @@ end
 def print_kg_to_lbs(weight)
   puts "Your weight is #{kg_to_lbs(weight)} lbs"
 end
+
+
+puts "What is your weight?"
+# We use to_f because weight may contain a decimal number
+weight = gets.chomp.to_f
+
+puts "Is that in (L)bs or (K)g?"
+unit = gets.chomp.downcase
 
 convert_weight(weight, unit)
 
