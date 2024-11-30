@@ -18,12 +18,6 @@ def convert_weight(weight, unit)
   end
 end
 
-convert_weight(weight, unit)
-
-
-puts "============================================="
-
-
 def lbs_to_kg(weight)
   new_weight = weight / 2.205
   new_weight.round(2)
@@ -41,6 +35,12 @@ end
 def print_kg_to_lbs(weight)
   puts "Your weight is #{kg_to_lbs(weight)} lbs"
 end
+
+convert_weight(weight, unit)
+
+
+puts "============================================="
+
 
 if unit == "l"
   print_lbs_to_kg(weight)
