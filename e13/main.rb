@@ -37,7 +37,7 @@ def get_user_input()
   puts "Is that in (L)bs or (K)g?"
   unit = gets.chomp.downcase
 
-  return weight
+  return weight, unit
 end
 
 # Our logical flow
