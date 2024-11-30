@@ -29,8 +29,11 @@ def print_kg_to_lbs(weight)
   puts "Your weight is #{kg_to_lbs(weight)} lbs"
 end
 
-# Our logical flow
+def get_user_input
 
+end
+
+# Our logical flow
 puts "What is your weight?"
 # We use to_f because weight may contain a decimal number
 weight = gets.chomp.to_f
