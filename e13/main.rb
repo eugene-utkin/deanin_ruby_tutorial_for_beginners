@@ -29,7 +29,7 @@ def print_kg_to_lbs(weight)
   puts "Your weight is #{kg_to_lbs(weight)} lbs"
 end
 
-def get_user_input
+def get_user_input()
 
 end
 
