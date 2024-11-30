@@ -39,13 +39,13 @@ def print_lbs_to_kg(weight)
 end
 
 def print_kg_to_lbs(weight)
-
+  puts "Your weight is #{kg_to_lbs(weight)} lbs"
 end
 
 if unit == "l"
   print_lbs_to_kg(weight)
 elsif unit == "k"
-  puts "Your weight is #{kg_to_lbs(weight)} lbs"
+  
 else
   puts "I don't support that unit of measurement"
 end
