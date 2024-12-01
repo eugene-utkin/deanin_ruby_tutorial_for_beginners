@@ -50,6 +50,10 @@ def print_weight_convertion(weight, unit)
   end
 end
 
+def main
+
+end
+
 # Our logical flow
 weight, unit = get_user_input()
 
