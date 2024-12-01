@@ -57,3 +57,6 @@ convert_weight(weight, unit)
 
 
 puts "============================================="
+
+
+print_weight_convertion(weight, unit)
