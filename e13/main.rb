@@ -41,7 +41,13 @@ def get_user_input()
 end
 
 def print_weight_convertion(weight, unit)
-
+  if unit == "l"
+    print_lbs_to_kg(weight)
+  elsif unit == "k"
+    print_kg_to_lbs(weight)
+  else
+    puts "I don't support that unit of measurement"
+  end
 end
 
 # Our logical flow
@@ -51,12 +57,3 @@ convert_weight(weight, unit)
 
 
 puts "============================================="
-
-
-if unit == "l"
-  print_lbs_to_kg(weight)
-elsif unit == "k"
-  print_kg_to_lbs(weight)
-else
-  puts "I don't support that unit of measurement"
-end
