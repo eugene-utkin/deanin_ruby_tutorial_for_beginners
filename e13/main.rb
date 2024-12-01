@@ -40,7 +40,7 @@ def get_user_input()
   return weight, unit
 end
 
-def print_weight_convertion(weight)
+def print_weight_convertion(weight, unit)
 
 end
 
