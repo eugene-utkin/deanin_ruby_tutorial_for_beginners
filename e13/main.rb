@@ -45,9 +45,7 @@ def print_weight_convertion(weight)
 end
 
 # Our logical flow
-get_user_input
-
-weight, unit = 
+weight, unit = get_user_input
 
 convert_weight(weight, unit)
 
