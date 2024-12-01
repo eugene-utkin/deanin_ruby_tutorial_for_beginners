@@ -59,4 +59,4 @@ def main()
 end
 
 # Our logical flow
-main
+main()
