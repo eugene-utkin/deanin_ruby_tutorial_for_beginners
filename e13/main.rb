@@ -40,14 +40,16 @@ def get_user_input()
   return weight, unit
 end
 
-def print_weight_convertion(weight, unit)
+def print_weight_convertion(weight)
 
 end
 
 # Our logical flow
 get_user_input
 
-weight, unit = convert_weight(weight, unit)
+weight, unit = 
+
+convert_weight(weight, unit)
 
 
 puts "============================================="
