@@ -50,7 +50,7 @@ def print_weight_convertion(weight, unit)
   end
 end
 
-def main
+def main()
 
 end
 
