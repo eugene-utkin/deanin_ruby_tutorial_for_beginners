@@ -2,7 +2,7 @@
 # More specifically, we need the get_user_input()
 # and print_weight_convertion() functions.
 # We can do this by using the require_relative keyword.
-require_relative "../weight"
+require_relative "../converter/weight"
 
 def main()
   weight, unit = get_user_input()
