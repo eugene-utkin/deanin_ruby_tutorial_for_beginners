@@ -10,3 +10,7 @@
 # We also want to continually ask for input.
 # A user can do multiple calculations per run.
 # A user can quit by typing Q or q.
+
+def main
+
+end
