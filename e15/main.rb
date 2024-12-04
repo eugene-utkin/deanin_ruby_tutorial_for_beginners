@@ -11,6 +11,6 @@
 # A user can do multiple calculations per run.
 # A user can quit by typing Q or q.
 
-def main
+def main()
 
 end
