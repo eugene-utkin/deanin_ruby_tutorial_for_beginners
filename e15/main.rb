@@ -8,3 +8,4 @@
 # It should print the result
 
 # We also want to continually ask for input.
+# A user can do multiple calculations per run.
