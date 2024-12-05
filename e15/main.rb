@@ -19,6 +19,7 @@ def main()
 	puts "3. Multiplication"
 	puts "4. Division"
 	puts "Q. Quit"
+	choice = gets
 end
 
 main()
