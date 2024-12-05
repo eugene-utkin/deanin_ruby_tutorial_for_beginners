@@ -27,7 +27,7 @@ def main()
 	end
 
 	if command == "1"
-
+		puts "You chose addition"
 	end
 end
 
