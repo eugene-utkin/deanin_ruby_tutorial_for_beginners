@@ -18,6 +18,7 @@ def main()
 	puts "2. Subtraction"
 	puts "3. Multiplication"
 	puts "4. Division"
+	puts "Q. Quit
 end
 
 main()
