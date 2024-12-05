@@ -15,6 +15,7 @@ def main()
 	puts "Welcome to the calculator"
 	puts "What would you like to do?"
 	puts "1. Addition"
+	puts "2. Subtraction"
 end
 
 main()
