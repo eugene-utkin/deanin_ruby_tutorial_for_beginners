@@ -22,7 +22,8 @@ def main()
 	command = gets.chomp.downcase
 
 	if command == "q"
-
+		puts "Goodbye!"
+		return
 	end
 end
 
