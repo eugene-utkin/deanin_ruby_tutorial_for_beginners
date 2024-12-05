@@ -20,6 +20,10 @@ def main()
 	puts "4. Division"
 	puts "Q. Quit"
 	command = gets.chomp.downcase
+
+	if command == "q"
+
+	end
 end
 
 main()
