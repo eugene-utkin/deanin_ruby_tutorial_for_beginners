@@ -16,6 +16,7 @@ def main()
 	puts "What would you like to do?"
 	puts "1. Addition"
 	puts "2. Subtraction"
+	puts "3. Multiplication"
 end
 
 main()
