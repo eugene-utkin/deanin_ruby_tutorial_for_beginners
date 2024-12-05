@@ -25,6 +25,10 @@ def main()
 		puts "Goodbye!"
 		return
 	end
+
+	if command == "1"
+
+	end
 end
 
 main()
