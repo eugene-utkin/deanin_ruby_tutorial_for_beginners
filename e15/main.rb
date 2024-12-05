@@ -12,7 +12,7 @@
 # A user can quit by typing Q or q.
 
 def main()
-
+	puts "Welcome to the calculator"
 end
 
 main()
