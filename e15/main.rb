@@ -13,6 +13,7 @@
 
 def main()
 	puts "Welcome to the calculator"
+	puts "What would you like to do?"
 end
 
 main()
