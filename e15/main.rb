@@ -12,23 +12,24 @@
 # A user can quit by typing Q or q.
 
 def main()
-	puts "Welcome to the calculator"
-	puts "What would you like to do?"
-	puts "1. Addition"
-	puts "2. Subtraction"
-	puts "3. Multiplication"
-	puts "4. Division"
-	puts "Q. Quit"
-	command = gets.chomp.downcase
+  puts "Welcome to the calculator"
+  puts "What would you like to do?"
+  puts "1. Addition"
+  puts "2. Subtraction"
+  puts "3. Multiplication"
+  puts "4. Division"
+  puts "Q. Quit"
+  command = gets.chomp.downcase
 
-	if command == "q"
-		puts "Goodbye!"
-		return
-	end
+  if command == "q"
+    puts "Goodbye!"
+    return
+  end
 
-	if command == "1"
-		puts "You chose addition"
-	end
+  if command == "1"
+    puts "You chose addition"
+  elsif command == "2"
+  end
 end
 
 main()
