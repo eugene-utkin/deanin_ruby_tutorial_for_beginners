@@ -29,6 +29,7 @@ def main()
   if command == "1"
     puts "You chose addition"
   elsif command == "2"
+    puts "You chose subtraction"
   end
 end
 
