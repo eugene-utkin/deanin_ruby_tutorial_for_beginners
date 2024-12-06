@@ -31,6 +31,7 @@ def main()
   elsif command == "2"
     puts "You chose subtraction"
   elsif command == "3"
+    puts "You chose multiplication"
   end
 end
 
