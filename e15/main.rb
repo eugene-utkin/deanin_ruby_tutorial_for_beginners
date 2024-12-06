@@ -30,6 +30,7 @@ def main()
     puts "You chose addition"
   elsif command == "2"
     puts "You chose subtraction"
+  elsif command == "3"
   end
 end
 
