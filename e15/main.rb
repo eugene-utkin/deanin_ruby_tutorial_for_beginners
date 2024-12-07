@@ -35,6 +35,7 @@ def main()
   elsif command == "4"
     puts "You chose division"
   else
+    puts "I don't understand that command"
   end
 end
 
