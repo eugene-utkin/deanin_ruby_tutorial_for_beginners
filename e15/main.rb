@@ -38,6 +38,8 @@ def main()
     puts "I don't understand that command"
     return
   end
+
+  puts "What is the first number?"
 end
 
 main()
