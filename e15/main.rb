@@ -36,6 +36,7 @@ def main()
     puts "You chose division"
   else
     puts "I don't understand that command"
+    return
   end
 end
 
