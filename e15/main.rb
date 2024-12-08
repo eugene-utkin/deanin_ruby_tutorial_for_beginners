@@ -40,7 +40,7 @@ def main()
   end
 
   puts "What is the first number?"
-  first_number = gets
+  first_number = gets.chomp
 end
 
 main()
