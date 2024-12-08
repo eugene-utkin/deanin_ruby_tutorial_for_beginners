@@ -40,6 +40,7 @@ def main()
   end
 
   puts "What is the first number?"
+  first_number = gets
 end
 
 main()
