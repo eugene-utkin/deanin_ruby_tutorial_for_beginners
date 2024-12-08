@@ -43,7 +43,7 @@ def main()
   first_number = gets.chomp.to_f
 
   puts "What is the second number?"
-  second_number = gets
+  second_number = gets.chomp
 end
 
 main()
