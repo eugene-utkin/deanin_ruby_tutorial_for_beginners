@@ -46,7 +46,7 @@ def main()
   second_number = gets.chomp.to_f
 
   if command == "1"
-    result = first_number + second_number
+
   end
 end
 
