@@ -47,6 +47,7 @@ def main()
 
   if command == "1"
     result = first_number + second_number
+    print(result)
   end
 end
 
