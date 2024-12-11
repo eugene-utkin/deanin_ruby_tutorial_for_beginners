@@ -52,6 +52,7 @@ def main()
     result = first_number - second_number
     print(result)
   elsif command == "3"
+    result = first_number * second_number
   end
 end
 
