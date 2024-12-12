@@ -51,7 +51,7 @@ def main()
       puts(result)
     elsif command == "2"
       result = first_number - second_number
-      print(result)
+      puts(result)
     elsif command == "3"
       result = first_number * second_number
       print(result)
