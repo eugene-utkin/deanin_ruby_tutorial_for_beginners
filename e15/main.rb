@@ -12,10 +12,6 @@
 # A user can quit by typing Q or q.
 
 def calculator_loop()
-
-end
-
-def main()
   while true
     puts "Welcome to the calculator"
     puts "What would you like to do?"
@@ -64,6 +60,10 @@ def main()
       puts(result)
     end
   end
+end
+
+def main()
+  
 end
 
 main()
