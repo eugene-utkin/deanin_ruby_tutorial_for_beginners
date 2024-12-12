@@ -11,7 +11,7 @@
 # A user can do multiple calculations per run.
 # A user can quit by typing Q or q.
 
-def calculator_loop
+def calculator_loop()
 
 end
 
