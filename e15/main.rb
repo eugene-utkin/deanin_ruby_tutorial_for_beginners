@@ -56,6 +56,7 @@ def main()
     print(result)
   elsif command == "4"
     result = first_number / second_number
+    print(result)
   end
 end
 
