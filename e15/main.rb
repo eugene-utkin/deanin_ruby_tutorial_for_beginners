@@ -63,7 +63,7 @@ def calculator_loop()
 end
 
 def main()
-  
+  calculator_loop
 end
 
 main()
