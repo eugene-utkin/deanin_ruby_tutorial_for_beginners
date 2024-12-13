@@ -11,6 +11,10 @@
 # A user can do multiple calculations per run.
 # A user can quit by typing Q or q.
 
+def print_welcome_message
+
+end
+
 def calculator_loop()
   while true
     puts "Welcome to the calculator"
