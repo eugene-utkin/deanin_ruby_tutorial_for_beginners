@@ -52,7 +52,7 @@ def calculator_loop()
     command = get_user_input()
 
     if invalid_command(command)
-
+      next
     end
 
     puts "What is the first number?"
