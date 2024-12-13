@@ -49,7 +49,7 @@ def calculator_loop()
   while true
     print_welcome_message()
 
-    get_user_input()
+    command = get_user_input()
 
     puts "What is the first number?"
     first_number = gets.chomp.to_f
