@@ -45,6 +45,10 @@ def get_user_input()
   return command
 end
 
+def invalid_command
+
+end
+
 def calculator_loop()
   while true
     print_welcome_message()
