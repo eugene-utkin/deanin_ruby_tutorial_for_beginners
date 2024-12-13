@@ -22,32 +22,30 @@ def print_welcome_message()
 end
 
 def get_user_input()
+  command = gets.chomp.downcase
 
+  if command == "q"
+    puts "Goodbye!"
+    return
+  end
+
+  if command == "1"
+    puts "You chose addition"
+  elsif command == "2"
+    puts "You chose subtraction"
+  elsif command == "3"
+    puts "You chose multiplication"
+  elsif command == "4"
+    puts "You chose division"
+  else
+    puts "I don't understand that command"
+    return
+  end
 end
 
 def calculator_loop()
   while true
     print_welcome_message()
-
-    command = gets.chomp.downcase
-
-    if command == "q"
-      puts "Goodbye!"
-      return
-    end
-
-    if command == "1"
-      puts "You chose addition"
-    elsif command == "2"
-      puts "You chose subtraction"
-    elsif command == "3"
-      puts "You chose multiplication"
-    elsif command == "4"
-      puts "You chose division"
-    else
-      puts "I don't understand that command"
-      return
-    end
 
     puts "What is the first number?"
     first_number = gets.chomp.to_f
