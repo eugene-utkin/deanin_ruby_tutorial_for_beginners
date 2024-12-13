@@ -23,6 +23,8 @@ end
 
 def calculator_loop()
   while true
+    print_welcome_message
+
     command = gets.chomp.downcase
 
     if command == "q"
