@@ -51,6 +51,10 @@ def calculator_loop()
 
     command = get_user_input()
 
+    if invalid_command
+
+    end
+
     puts "What is the first number?"
     first_number = gets.chomp.to_f
 
