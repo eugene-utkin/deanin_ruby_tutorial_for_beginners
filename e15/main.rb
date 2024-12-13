@@ -41,6 +41,8 @@ def get_user_input()
     puts "I don't understand that command"
     return
   end
+
+  return command
 end
 
 def calculator_loop()
