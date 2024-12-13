@@ -45,7 +45,7 @@ def get_user_input()
   return command
 end
 
-def invalid_command
+def invalid_command(command)
 
 end
 
