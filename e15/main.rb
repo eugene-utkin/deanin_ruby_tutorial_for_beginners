@@ -12,18 +12,17 @@
 # A user can quit by typing Q or q.
 
 def print_welcome_message()
-
+  puts "Welcome to the calculator"
+  puts "What would you like to do?"
+  puts "1. Addition"
+  puts "2. Subtraction"
+  puts "3. Multiplication"
+  puts "4. Division"
+  puts "Q. Quit"
 end
 
 def calculator_loop()
   while true
-    puts "Welcome to the calculator"
-    puts "What would you like to do?"
-    puts "1. Addition"
-    puts "2. Subtraction"
-    puts "3. Multiplication"
-    puts "4. Division"
-    puts "Q. Quit"
     command = gets.chomp.downcase
 
     if command == "q"
