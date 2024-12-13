@@ -21,7 +21,7 @@ def print_welcome_message()
   puts "Q. Quit"
 end
 
-def get_user_input
+def get_user_input()
 
 end
 
