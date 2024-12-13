@@ -21,6 +21,10 @@ def print_welcome_message()
   puts "Q. Quit"
 end
 
+def get_user_input
+
+end
+
 def calculator_loop()
   while true
     print_welcome_message()
