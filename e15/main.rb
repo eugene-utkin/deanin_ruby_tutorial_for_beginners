@@ -46,7 +46,9 @@ def get_user_input()
 end
 
 def invalid_command(command)
+  if command != "1"
 
+  end
 end
 
 def calculator_loop()
