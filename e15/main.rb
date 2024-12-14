@@ -24,11 +24,6 @@ end
 def get_user_input()
   command = gets.chomp.downcase
 
-  if command == "q"
-    puts "Goodbye!"
-    return
-  end
-
   if command == "1"
     puts "You chose addition"
   elsif command == "2"
@@ -53,7 +48,10 @@ def invalid_command(command)
 end
 
 def check_for_quit(command)
-
+  if command == "q"
+    puts "Goodbye!"
+    return
+  end
 end
 
 def calculator_loop()
