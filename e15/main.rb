@@ -52,6 +52,10 @@ def invalid_command(command)
   end
 end
 
+def check_for_quit
+
+end
+
 def calculator_loop()
   while true
     print_welcome_message()
