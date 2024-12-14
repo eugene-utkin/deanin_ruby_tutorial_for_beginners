@@ -47,7 +47,7 @@ end
 
 def invalid_command(command)
   if command != "1" && command != "2" && command != "3" && command != "4"
-
+    true
   end
 end
 
