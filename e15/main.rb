@@ -53,7 +53,7 @@ def check_for_quit(command)
   end
 end
 
-def get_user_numbers
+def get_user_numbers()
 
 end
 
