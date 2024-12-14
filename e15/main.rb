@@ -53,6 +53,10 @@ def check_for_quit(command)
   end
 end
 
+def get_user_numbers
+
+end
+
 def calculator_loop()
   while true
     print_welcome_message()
