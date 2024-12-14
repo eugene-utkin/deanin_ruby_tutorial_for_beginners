@@ -62,7 +62,7 @@ def calculator_loop()
     end
 
     if check_for_quit(command)
-
+      break
     end
 
     puts "What is the first number?"
