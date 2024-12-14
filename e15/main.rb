@@ -32,9 +32,6 @@ def get_user_input()
     puts "You chose multiplication"
   elsif command == "4"
     puts "You chose division"
-  else
-    puts "I don't understand that command"
-    return
   end
 
   return command
