@@ -52,7 +52,7 @@ def invalid_command(command)
   end
 end
 
-def check_for_quit
+def check_for_quit(command)
 
 end
 
