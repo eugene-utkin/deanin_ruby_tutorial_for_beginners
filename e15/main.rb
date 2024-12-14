@@ -47,7 +47,7 @@ end
 def check_for_quit(command)
   if command == "q"
     puts "Goodbye!"
-    return
+    return true
   end
 end
 
