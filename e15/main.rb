@@ -46,7 +46,7 @@ def get_user_input()
 end
 
 def invalid_command(command)
-  if command != "1"
+  if command != "1" && command != "2"
 
   end
 end
