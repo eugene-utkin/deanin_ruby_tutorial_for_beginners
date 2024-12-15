@@ -68,6 +68,10 @@ def add(first_number, second_number)
   return result
 end
 
+def subtract
+
+end
+
 def calculator_loop()
   while true
     print_welcome_message()
