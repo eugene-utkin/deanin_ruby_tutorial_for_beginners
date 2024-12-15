@@ -86,7 +86,7 @@ def calculator_loop()
       result = subtract(first_number, second_number)
       puts(result)
     elsif command == "3"
-      result = first_number * second_number
+      result = multiply(first_number, second_number)
       puts(result)
     elsif command == "4"
       result = first_number / second_number
