@@ -68,7 +68,7 @@ def add(first_number, second_number)
   return result
 end
 
-def subtract
+def subtract(first_number)
 
 end
 
