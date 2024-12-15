@@ -63,6 +63,10 @@ def get_user_numbers()
   return first_number, second_number
 end
 
+def add
+
+end
+
 def calculator_loop()
   while true
     print_welcome_message()
