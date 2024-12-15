@@ -63,7 +63,7 @@ def get_user_numbers()
   return first_number, second_number
 end
 
-def add
+def add(first_number)
 
 end
 
