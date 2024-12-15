@@ -77,7 +77,7 @@ def calculator_loop()
       break
     end
 
-    get_user_numbers()
+    first_number, second_number = get_user_numbers()
 
     if command == "1"
       result = first_number + second_number
