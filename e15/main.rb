@@ -89,7 +89,7 @@ def calculator_loop()
       result = multiply(first_number, second_number)
       puts(result)
     elsif command == "4"
-      result = first_number / second_number
+      result = divide(first_number, second_number)
       puts(result)
     end
   end
