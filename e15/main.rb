@@ -83,7 +83,7 @@ def calculator_loop()
       result = add(first_number, second_number)
       puts(result)
     elsif command == "2"
-      result = first_number - second_number
+      result = subtract(first_number, second_number)
       puts(result)
     elsif command == "3"
       result = first_number * second_number
