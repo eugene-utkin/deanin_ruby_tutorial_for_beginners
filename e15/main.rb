@@ -80,7 +80,7 @@ def calculator_loop()
     first_number, second_number = get_user_numbers()
 
     if command == "1"
-      result = first_number + second_number
+      result = add(first_number, second_number)
       puts(result)
     elsif command == "2"
       result = first_number - second_number
