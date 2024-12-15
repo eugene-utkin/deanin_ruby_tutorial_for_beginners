@@ -54,7 +54,11 @@ def check_for_quit(command)
 end
 
 def get_user_numbers()
+  puts "What is the first number?"
+  first_number = gets.chomp.to_f
 
+  puts "What is the second number?"
+  second_number = gets.chomp.to_f
 end
 
 def calculator_loop()
@@ -71,11 +75,7 @@ def calculator_loop()
       break
     end
 
-    puts "What is the first number?"
-    first_number = gets.chomp.to_f
-
-    puts "What is the second number?"
-    second_number = gets.chomp.to_f
+    
 
     if command == "1"
       result = first_number + second_number
