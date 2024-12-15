@@ -64,7 +64,7 @@ def get_user_numbers()
 end
 
 def add(first_number, second_number)
-
+  result = first_number + second_number
 end
 
 def calculator_loop()
