@@ -78,7 +78,7 @@ def multiply(first_number, second_number)
   return result
 end
 
-def divide
+def divide(first_number)
 
 end
 
