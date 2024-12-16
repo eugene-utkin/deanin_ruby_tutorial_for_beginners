@@ -73,6 +73,10 @@ def subtract(first_number, second_number)
   return result
 end
 
+def multiply
+
+end
+
 def calculator_loop()
   while true
     print_welcome_message()
