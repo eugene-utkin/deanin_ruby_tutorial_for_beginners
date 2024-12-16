@@ -80,7 +80,7 @@ end
 
 def divide(first_number, second_number)
   result = first_number / second_number
-  return result
+  puts(result)
 end
 
 def calculator_loop()
@@ -107,7 +107,6 @@ def calculator_loop()
       result = multiply(first_number, second_number)
     elsif command == "4"
       result = divide(first_number, second_number)
-      puts(result)
     end
   end
 end
