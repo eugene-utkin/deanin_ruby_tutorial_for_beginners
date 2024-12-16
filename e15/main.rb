@@ -65,7 +65,7 @@ end
 
 def add(first_number, second_number)
   result = first_number + second_number
-  return result
+  puts(result)
 end
 
 def subtract(first_number, second_number)
@@ -101,7 +101,6 @@ def calculator_loop()
 
     if command == "1"
       result = add(first_number, second_number)
-      puts(result)
     elsif command == "2"
       result = subtract(first_number, second_number)
       puts(result)
