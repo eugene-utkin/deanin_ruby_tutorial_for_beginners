@@ -100,7 +100,7 @@ def calculator_loop()
     first_number, second_number = get_user_numbers()
 
     if command == "1"
-      result = add(first_number, second_number)
+      add(first_number, second_number)
     elsif command == "2"
       result = subtract(first_number, second_number)
     elsif command == "3"
