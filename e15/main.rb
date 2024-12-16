@@ -74,7 +74,7 @@ def subtract(first_number, second_number)
 end
 
 def multiply(first_number, second_number)
-
+  result = first_number * second_number
 end
 
 def calculator_loop()
