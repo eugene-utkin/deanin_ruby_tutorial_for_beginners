@@ -104,7 +104,7 @@ def calculator_loop()
     elsif command == "2"
       subtract(first_number, second_number)
     elsif command == "3"
-      result = multiply(first_number, second_number)
+      multiply(first_number, second_number)
     elsif command == "4"
       result = divide(first_number, second_number)
     end
