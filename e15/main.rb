@@ -102,7 +102,7 @@ def calculator_loop()
     if command == "1"
       add(first_number, second_number)
     elsif command == "2"
-      result = subtract(first_number, second_number)
+      subtract(first_number, second_number)
     elsif command == "3"
       result = multiply(first_number, second_number)
     elsif command == "4"
