@@ -87,6 +87,10 @@ def divide(first_number, second_number)
   end
 end
 
+def calculate
+
+end
+
 def calculator_loop()
   while true
     print_welcome_message()
