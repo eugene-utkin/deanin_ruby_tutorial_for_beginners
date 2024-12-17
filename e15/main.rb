@@ -88,7 +88,15 @@ def divide(first_number, second_number)
 end
 
 def calculate(first_number, second_number, command)
-
+  if command == "1"
+    add(first_number, second_number)
+  elsif command == "2"
+    subtract(first_number, second_number)
+  elsif command == "3"
+    multiply(first_number, second_number)
+  elsif command == "4"
+    divide(first_number, second_number)
+  end
 end
 
 def calculator_loop()
@@ -107,15 +115,7 @@ def calculator_loop()
 
     first_number, second_number = get_user_numbers()
 
-    if command == "1"
-      add(first_number, second_number)
-    elsif command == "2"
-      subtract(first_number, second_number)
-    elsif command == "3"
-      multiply(first_number, second_number)
-    elsif command == "4"
-      divide(first_number, second_number)
-    end
+    
   end
 end
 
