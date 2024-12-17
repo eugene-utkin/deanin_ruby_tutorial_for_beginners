@@ -87,7 +87,7 @@ def divide(first_number, second_number)
   end
 end
 
-def calculate
+def calculate(first_number)
 
 end
 
