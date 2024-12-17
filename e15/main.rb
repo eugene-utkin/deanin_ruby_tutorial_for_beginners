@@ -82,9 +82,9 @@ def divide(first_number, second_number)
   if second_number == 0
     puts "You can't divide by zero"
   else
+    result = first_number / second_number
+    puts(result)
   end
-  result = first_number / second_number
-  puts(result)
 end
 
 def calculator_loop()
