@@ -115,7 +115,7 @@ def calculator_loop()
 
     first_number, second_number = get_user_numbers()
 
-    calculate(first_number)
+    calculate(first_number, second_number)
   end
 end
 
