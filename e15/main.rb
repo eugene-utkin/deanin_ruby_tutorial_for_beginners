@@ -79,6 +79,9 @@ def multiply(first_number, second_number)
 end
 
 def divide(first_number, second_number)
+  if second_number == 0
+
+  end
   result = first_number / second_number
   puts(result)
 end
