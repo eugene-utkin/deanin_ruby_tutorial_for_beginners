@@ -7,3 +7,8 @@ def subtract(first_number, second_number)
   result = first_number - second_number
   puts(result)
 end
+
+def multiply(first_number, second_number)
+  result = first_number * second_number
+  puts(result)
+end
