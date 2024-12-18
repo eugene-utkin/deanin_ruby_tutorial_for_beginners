@@ -11,6 +11,7 @@
 # A user can do multiple calculations per run.
 # A user can quit by typing Q or q.
 require_relative "math/operations"
+require_relative "input/user_input"
 
 def print_welcome_message()
   puts "Welcome to the calculator"
