@@ -12,6 +12,7 @@
 # A user can quit by typing Q or q.
 require_relative "math/operations"
 require_relative "input/user_input"
+require_relative "validations/validate_input"
 
 def print_welcome_message()
   puts "Welcome to the calculator"
