@@ -54,16 +54,6 @@ def check_for_quit(command)
   end
 end
 
-def get_user_numbers()
-  puts "What is the first number?"
-  first_number = gets.chomp.to_f
-
-  puts "What is the second number?"
-  second_number = gets.chomp.to_f
-
-  return first_number, second_number
-end
-
 def calculate(first_number, second_number, command)
   if command == "1"
     add(first_number, second_number)
