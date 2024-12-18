@@ -22,22 +22,6 @@ def print_welcome_message()
   puts "Q. Quit"
 end
 
-def get_user_input()
-  command = gets.chomp.downcase
-
-  if command == "1"
-    puts "You chose addition"
-  elsif command == "2"
-    puts "You chose subtraction"
-  elsif command == "3"
-    puts "You chose multiplication"
-  elsif command == "4"
-    puts "You chose division"
-  end
-
-  return command
-end
-
 def invalid_command(command)
   command_does_not_equal_number = command != "1" && command != "2" && command != "3" && command != "4"
   command_is_invalid = command_does_not_equal_number && command != "q"
