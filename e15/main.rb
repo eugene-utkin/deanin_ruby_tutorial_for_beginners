@@ -10,6 +10,7 @@
 # We also want to continually ask for input.
 # A user can do multiple calculations per run.
 # A user can quit by typing Q or q.
+require_relative "math/operations"
 
 def print_welcome_message()
   puts "Welcome to the calculator"
@@ -61,20 +62,6 @@ def get_user_numbers()
   second_number = gets.chomp.to_f
 
   return first_number, second_number
-end
-
-def multiply(first_number, second_number)
-  result = first_number * second_number
-  puts(result)
-end
-
-def divide(first_number, second_number)
-  if second_number == 0
-    puts "You can't divide by zero"
-  else
-    result = first_number / second_number
-    puts(result)
-  end
 end
 
 def calculate(first_number, second_number, command)
