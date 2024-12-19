@@ -3,6 +3,7 @@ def read_file()
   file = File.open('example.txt', 'r')
   puts file.read
 
+  counter = 1
   file.readlines.each do |line|
     puts line
   end
