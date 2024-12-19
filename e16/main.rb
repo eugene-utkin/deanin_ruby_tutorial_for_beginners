@@ -4,7 +4,7 @@ def read_file()
   puts file.read
 
   file.readlines.each do |line|
-
+    puts line
   end
 end
 
