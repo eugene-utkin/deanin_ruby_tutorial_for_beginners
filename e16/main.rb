@@ -8,4 +8,4 @@ end
 
 # Case 3: Append File (Maintain Data)
 
-read_file
+read_file()
