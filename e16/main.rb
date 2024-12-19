@@ -1,5 +1,5 @@
 # Case 1: Read File
-def read_file
+def read_file()
 
 end
 
