@@ -1,7 +1,7 @@
 # Case 1: Read File
 def read_file()
   file = File.open('example.txt', 'r')
-  puts file
+  puts file.read
 end
 
 # Case 2: Write File (Overwrite)
