@@ -4,7 +4,6 @@ def read_file()
   puts file.read
 
   file = File.open(File.dirname(__FILE__) + '/example.txt', 'r')
-  counter = 1
   file.readlines.each.with_index do |line, counter|
     puts counter.to_s + ": " + line
   end
