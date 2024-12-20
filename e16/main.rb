@@ -10,7 +10,7 @@ def read_file()
 end
 
 # Case 2: Write File (Overwrite)
-def write_file
+def write_file()
 
 end
 
