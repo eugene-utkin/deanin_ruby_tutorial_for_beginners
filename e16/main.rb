@@ -18,3 +18,4 @@ end
 # Case 3: Append File (Maintain Data)
 
 read_file()
+write_file
