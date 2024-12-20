@@ -7,7 +7,6 @@ def read_file()
   counter = 1
   file.readlines.each.with_index do |line, counter|
     puts counter.to_s + ": " + line
-    counter = counter + 1
   end
 end
 
