@@ -11,7 +11,7 @@ end
 
 # Case 2: Write File (Overwrite)
 def write_file()
-
+  File.open(File.dirname(__FILE__) + '/example.txt', 'w')
 end
 
 # Case 3: Append File (Maintain Data)
