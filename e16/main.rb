@@ -1,6 +1,6 @@
 # Case 1: Read File
 def read_file()
-  file = File.open('example.txt', 'r')
+  file = File.open(File.dirname(__FILE__) + '/example.txt', 'r')
   puts file.read
 
   counter = 1
