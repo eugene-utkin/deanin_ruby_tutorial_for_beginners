@@ -25,6 +25,8 @@ def append_file()
   file = File.open(File.dirname(__FILE__) + '/example.txt', 'a')
 
   file.write("123")
+
+  file.close
 end
 
 write_file()
