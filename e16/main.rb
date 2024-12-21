@@ -12,7 +12,10 @@ end
 # Case 2: Write File (Overwrite)
 def write_file()
   file = File.open(File.dirname(__FILE__) + '/example.txt', 'w')
+
   file.write("123")
+
+  file.close
 end
 
 # Case 3: Append File (Maintain Data)
