@@ -2,6 +2,7 @@
 def read_file()
   file = File.open(File.dirname(__FILE__) + '/example.txt', 'r')
   puts file.read
+  file.close
 
   file = File.open(File.dirname(__FILE__) + '/example.txt', 'r')
   file.readlines.each.with_index do |line, counter|
