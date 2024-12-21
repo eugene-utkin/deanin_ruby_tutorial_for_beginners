@@ -8,6 +8,7 @@ def read_file()
   file.readlines.each.with_index do |line, counter|
     puts (counter + 1).to_s + ": " + line
   end
+  file.close
 end
 
 # Case 2: Write File (Overwrite)
