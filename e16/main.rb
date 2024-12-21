@@ -23,6 +23,8 @@ end
 # Case 3: Append File (Maintain Data)
 def append_file()
   file = File.open(File.dirname(__FILE__) + '/example.txt', 'a')
+
+  file.write("123")
 end
 
 write_file()
