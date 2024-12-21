@@ -15,7 +15,7 @@ end
 def write_file()
   file = File.open(File.dirname(__FILE__) + '/example.txt', 'w')
 
-  file.write("123")
+  file.write("First Line Here!")
 
   file.close
 end
