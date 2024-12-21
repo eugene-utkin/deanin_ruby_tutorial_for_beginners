@@ -24,7 +24,7 @@ end
 def append_file()
   file = File.open(File.dirname(__FILE__) + '/example.txt', 'a')
 
-  file.puts("123")
+  file.puts("Hello World")
 
   file.close
 end
