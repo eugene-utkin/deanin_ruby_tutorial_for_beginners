@@ -21,7 +21,7 @@ def write_file()
 end
 
 # Case 3: Append File (Maintain Data)
-def append_file
+def append_file()
 
 end
 
