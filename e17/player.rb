@@ -8,6 +8,6 @@ class Player
   end
 
   def print_my_health
-
+    puts "My health is #{@health}"
   end
 end
