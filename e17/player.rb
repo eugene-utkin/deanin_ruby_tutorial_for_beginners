@@ -16,6 +16,6 @@ class Player
   end
 
   def print_my_level
-
+    puts "My level is #{@level}"
   end
 end
