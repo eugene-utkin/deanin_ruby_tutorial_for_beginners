@@ -12,6 +12,6 @@ class Player
   end
 
   def print_my_damage
-
+    puts "My health is #{@damage}"
   end
 end
