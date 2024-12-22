@@ -10,4 +10,8 @@ class Player
   def print_my_health
     puts "My health is #{@health}"
   end
+
+  def print_my_damage
+
+  end
 end
