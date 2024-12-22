@@ -6,4 +6,8 @@ class Player
     @damage = damage
     @level = level
   end
+
+  def print_my_health
+
+  end
 end
