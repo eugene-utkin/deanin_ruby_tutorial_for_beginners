@@ -12,7 +12,7 @@ class Player
   end
 
   def print_my_damage
-    puts "My health is #{@damage}"
+    puts "My damage is #{@damage}"
   end
 
   def print_my_level
