@@ -1,7 +1,7 @@
 class Player
   # Constructor
   # Initialize method
-  def initialize
+  def initialize(health)
 
   end
 end
