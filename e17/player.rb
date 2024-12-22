@@ -3,5 +3,6 @@ class Player
   # Initialize method
   def initialize(health, damage, level)
     @health = health
+    @damage = damage
   end
 end
