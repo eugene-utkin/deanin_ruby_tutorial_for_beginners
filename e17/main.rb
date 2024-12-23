@@ -9,4 +9,4 @@ dean = Player.new(120, 60, 2)
 player.print_my_health()
 
 # print Dean's health
-dean.print_my_health
+dean.print_my_health()
