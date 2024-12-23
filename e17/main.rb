@@ -5,4 +5,4 @@ require_relative 'player'
 player = Player.new(100, 50, 1)
 
 # print the player's health
-player.print_my_health
+player.print_my_health()
