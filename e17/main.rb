@@ -7,3 +7,5 @@ dean = Player.new(120, 60, 2)
 
 # print the player's health
 player.print_my_health()
+
+# print Dean's health
