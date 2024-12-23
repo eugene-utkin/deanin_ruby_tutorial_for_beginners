@@ -2,3 +2,4 @@
 require_relative 'player'
 
 # Create a new player
+player = Player.new()
