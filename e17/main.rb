@@ -10,4 +10,5 @@ player.print_my_name
 player.print_my_health()
 
 # print Dean's health
+dean.print_my_name
 dean.print_my_health()
