@@ -9,7 +9,7 @@ class Player
   end
 
   def print_my_name
-
+    puts "My name is #{@name}"
   end
 
   def print_my_health
