@@ -1,3 +1,3 @@
 # README
 
-Ruby Tutorials for Beginners
+Files for "Ruby Tutorials for Beginners" course
