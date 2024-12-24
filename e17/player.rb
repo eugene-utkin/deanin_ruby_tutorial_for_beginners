@@ -2,6 +2,7 @@ class Player
   # Constructor
   # Initialize method
   def initialize(name, health, damage, level)
+    @name = name
     @health = health
     @damage = damage
     @level = level
