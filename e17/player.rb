@@ -8,6 +8,10 @@ class Player
     @level = level
   end
 
+  def print_my_name
+
+  end
+
   def print_my_health
     puts "My health is #{@health}"
   end
